@@ -1,6 +1,3 @@
-require "hatogaya/version"
 require "hatogaya/task"
+require "hatogaya/desc"
 
-module Hatogaya
-  # Your code goes here...
-end
